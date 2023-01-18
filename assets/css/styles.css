@@ -155,9 +155,10 @@ footer {
 footer .attribution {
   font-size: 11px;
   text-align: center;
+  color: hsl(220deg, 5%, 50%);
 }
 footer .attribution a {
-  color: hsl(228deg, 45%, 44%);
+  color: hsl(228deg, 45%, 94%);
 }
 
 /*# sourceMappingURL=styles.css.map */
